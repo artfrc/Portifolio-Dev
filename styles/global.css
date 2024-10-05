@@ -1,7 +1,12 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;  
+  box-sizing: border-box;
+}
+
+body {
+  width: 1366px;
+  background-color: var(--gray-200);
 }
 
 :root {
@@ -22,12 +27,12 @@
   --font-family-inconsolata: "Inconsolata", monospace;
   --font-familt-maven-pro: "Maven Pro", sans-serif;
 
-  --title-lg: 700,  56px/120% var(--font-family-asap);
-  --title-md: 700, 24px/120% var(--font-family-asap);
-  --title-sm: 700, 16px/120% var(--font-family-asap);
+  --title-lg: 700 56px/120% var(--font-family-asap);
+  --title-md: 700 24px/120% var(--font-family-asap);
+  --title-sm: 700 16px/120% var(--font-family-asap);
 
-  --subtitle: 400, 20px/120% var(--font-family-inconsolata);
+  --subtitle: 400 20px/120% var(--font-family-inconsolata);
 
-  --text-md: 400, 16px/140% var(--font-familt-maven-pro);
-  --text-sm: 400, 14px/140% var(--font-familt-maven-pro);
+  --text-md: 400 16px/140% var(--font-familt-maven-pro);
+  --text-sm: 400 14px/140% var(--font-familt-maven-pro);
 }
