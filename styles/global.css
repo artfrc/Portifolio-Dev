@@ -7,6 +7,7 @@
 body {
   width: 1366px;
   background-color: var(--gray-200);
+  overflow: hidden;
 }
 
 :root {
@@ -25,7 +26,7 @@ body {
 
   --font-family-asap: "Asap", sans-serif;
   --font-family-inconsolata: "Inconsolata", monospace;
-  --font-familt-maven-pro: "Maven Pro", sans-serif;
+  --font-family-maven-pro: "Maven Pro", sans-serif;
 
   --title-lg: 700 56px/120% var(--font-family-asap);
   --title-md: 700 24px/120% var(--font-family-asap);
@@ -33,6 +34,6 @@ body {
 
   --subtitle: 400 20px/120% var(--font-family-inconsolata);
 
-  --text-md: 400 16px/140% var(--font-familt-maven-pro);
-  --text-sm: 400 14px/140% var(--font-familt-maven-pro);
+  --text-md: 400 16px/140% var(--font-family-maven-pro);
+  --text-sm: 400 14px/140% var(--font-family-maven-pro);
 }
