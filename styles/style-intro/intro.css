@@ -1,9 +1,5 @@
 #intro {
   height: 750px;
-<<<<<<< HEAD
   background-image: url(../../assets/backgrounds/Background_Intro.png);
-=======
-  background-image: url(../assets/backgrounds/Background_Intro.png);
->>>>>>> e8c393c675634121199d73b2e7015051cda756ad
   background-size: contain;
 }
