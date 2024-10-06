@@ -1,0 +1,26 @@
+.card-project {
+  width: 330px;
+  height: 280px;
+  background-color: #292c34;
+  border-radius: 12px;
+}
+
+.card-project img {
+  width: 306px;
+  height: 156px;
+  border-radius: 8px; 
+  margin: 12px 12px 20px 12px; 
+}
+
+.card-project h2 {
+  font: var(--title-sm);
+  color: var(--gray-600);
+  margin-bottom: 8px;
+  margin-left: 16px;
+}
+
+.card-project p {
+  font: var(--text-sm);
+  color: var(--gray-500);
+  margin-left: 16px;
+}

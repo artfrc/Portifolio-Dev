@@ -1,0 +1,10 @@
+.cards-projects {
+  display: flex;
+  flex-wrap: wrap;
+   width: 1040px;
+   height: 584px;
+   gap: 24px;
+   margin-left: 163px;
+
+}
+
