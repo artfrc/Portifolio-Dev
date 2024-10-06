@@ -1,12 +1,16 @@
 @import url(global.css);
-@import url(contacts.css);
-@import url(header-contacts.css);
-@import url(links-contacts.css);
-@import url(services.css);
-@import url(header-services.css);
-@import url(my-services.css);
-@import url(projects.css);
-@import url(header-projects.css);
-@import url(cards-projects.css);
-@import url(card-project.css);
-@import url(intro.css);
+
+@import url(../styles/style-contacts/contacts.css);
+@import url(../styles/style-contacts/header-contacts.css);
+@import url(../styles/style-contacts/links-contacts.css);
+
+@import url(../styles/style-services/header-services.css);
+@import url(../styles/style-services/my-services.css);
+@import url(../styles/style-services/services.css);
+
+@import url(../styles/style-projects/card-project.css);
+@import url(../styles/style-projects/cards-projects.css);
+@import url(../styles/style-projects/projects.css);
+@import url(../styles/style-projects/header-projects.css);
+
+@import url(../styles/style-intro/intro.css);
