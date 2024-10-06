@@ -7,7 +7,7 @@
 body {
   width: 1366px;
   background-color: var(--gray-200);
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 :root {

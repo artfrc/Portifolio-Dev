@@ -1,0 +1,17 @@
+#header-services {
+  display: flex;
+  flex-direction: column;
+  padding: 88px 505.5px 56px 505.5px;
+  align-items: center;
+}
+
+#header-services p {
+  font: var(--subtitle);
+  color: var(--red);
+  margin-bottom: 8px;
+}
+
+#header-services h1 {
+  font: var(--title-md);
+  color: var(--gray-600);
+}
