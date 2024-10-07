@@ -8,13 +8,23 @@
   text-align: center;
 }
 
-.avatar-header{
+.image-dev {
   display: flex;
-  width: 112px;
-  height: 112px;
-  border: 1px solid red;
   margin: auto;
-  margin-bottom: 56px;
+  position: relative;
+  width: fit-content;
+}
+
+#dev-image { 
+  border: 2px solid var(--red);
+  border-radius: 999px;
+}
+
+.icon-code {
+  width: 31px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 
 .text-header-info p:nth-child(1) {
@@ -22,6 +32,7 @@
   align-items: start;
   font: var(--subtitle);
   color: var(--gray-500);
+  margin-top: 56px;
 }
 
 .text-header-info .name {
