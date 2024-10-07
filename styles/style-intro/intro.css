@@ -3,3 +3,9 @@
   background-image: url(../../assets/backgrounds/Background_Intro.png);
   background-size: contain;
 }
+
+#intro #arrowdown {
+  display: flex;
+  margin: auto;
+  margin-top: 94px;
+}

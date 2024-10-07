@@ -1,0 +1,78 @@
+.tags-info {
+  display: flex;
+  width: 754px;
+  height: 40px;
+  column-gap: 16px;
+  margin:auto;
+}
+
+.tag-info {
+  display: flex;
+  background-color: #1E1E1E;
+  border-radius: 999px;
+  align-items: center;
+  height: 40px;
+  font: var(--text-md);
+  color: var(--gray-500);
+}
+
+#tag-git img {
+  width: 24px;
+  margin: 8px 8px 8px 18.25px;
+}
+
+#tag-git {
+  width: 114px;
+}
+
+#tag-html img {
+  width: 15.98px;
+  height: 18px;
+  margin: 11px 8px 11px 20.01px;
+}
+
+#tag-html  {
+  width: 105px;
+}
+
+#tag-css img {
+  width: 15.85px;
+  height: 18px;
+  margin: 11px 12.07px 11px 20.07px;
+}
+
+#tag-css {
+  width: 92px;
+}
+
+#tag-js img {
+  width: 19.5px;
+  height: 13.63px;
+  margin: 13.18px 10.25px 13.18px 18.25px;
+}
+
+#tag-js {
+  width: 138px;
+}
+
+#tag-react img {
+  width: 19.5px;
+  height: 17.13px;
+  margin: 11.43px 10.25px 11.43px 18.25px;
+}
+
+#tag-react {
+  width: 106px;
+}
+
+#tag-node img {
+  width: 17.26px;
+  height: 19.5px;
+  margin: 10.25px 11.37px 10.25px 19.37px;
+}
+
+#tag-node {
+  width: 119px;
+}
+
+
