@@ -8,47 +8,10 @@
   text-align: center;
 }
 
-.image-dev {
-  display: flex;
-  margin: auto;
-  position: relative;
-  width: fit-content;
-}
-
-#dev-image { 
-  border: 2px solid var(--red);
-  border-radius: 999px;
-}
-
-.icon-code {
-  width: 31px;
-  position: absolute;
-  bottom: 0;
-  right: 0;
-}
-
 .text-header-info p:nth-child(1) {
   position: static;
   align-items: start;
   font: var(--subtitle);
   color: var(--gray-500);
   margin-top: 56px;
-}
-
-.text-header-info .name {
-  color: var(--red);
-}
-
-.text-header-info h1 {
-  display: flex;
-  width: 680px;
-  height: 67px;
-  font: var(--title-lg);
-  color: var(--gray-600);
-  margin-bottom: 20px;
-}
-
-.text-header-info p:nth-child(3) {
-  font: var(--text-sm);
-  color: var(--gray-400);
 }

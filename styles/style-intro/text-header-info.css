@@ -1,0 +1,17 @@
+.text-header-info .name {
+  color: var(--red);
+}
+
+.text-header-info h1 {
+  display: flex;
+  width: 680px;
+  height: 67px;
+  font: var(--title-lg);
+  color: var(--gray-600);
+  margin-bottom: 20px;
+}
+
+.text-header-info p:nth-child(3) {
+  font: var(--text-sm);
+  color: var(--gray-400);
+}
